@@ -1,6 +1,8 @@
 ## Welcome to my github page
 
+ <img src=https://www.codewars.com/users/wiflysk8/badges/large alt="codewars">
  <div>
+ 
   <a href="https://github.com/wiflysk8">
    <a href="https://www.luismrtinez.com" target="_blank"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-martínez-enríquez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -21,7 +23,7 @@
    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 
 </div>
-    
+   
   ##
  
 <div>
