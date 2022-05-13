@@ -1,6 +1,7 @@
-## Welcome to my github page
+##
 
- <img src=https://www.codewars.com/users/wiflysk8/badges/large alt="codewars">
+<img src=https://www.codewars.com/users/wiflysk8/badges/large alt="codewars">
+
  <div>
  
   <a href="https://github.com/wiflysk8">
